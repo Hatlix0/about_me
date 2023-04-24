@@ -17,7 +17,7 @@ I am just a person enthusiastic about anything related to programming, whether i
 
 <h3 align="center">Tools</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,unity&theme=dark" />
 </div>
 
 <h3 align="center">Databases</h3>
