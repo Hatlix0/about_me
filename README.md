@@ -7,7 +7,7 @@ I am just a person enthusiastic about anything related to programming, whether i
 
 <h3 align="center">Languages/Runtimes</h3>
 <div align="center" style="margin-top: 10px">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,mysql,cs,c,java,mongodb&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,mysql,cs,c,java&theme=dark" />
 </div>
 
 <h3 align="center">Frameworks</h3>
