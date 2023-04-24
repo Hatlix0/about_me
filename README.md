@@ -2,7 +2,7 @@
 
 <h3 align="center">About Me</h3>
 <div align="center">
-I am just a person enthusiastic about anything related to programming, whether it's website development, game development, or application development. But of course I do have a particular specialization that I focus on. (Web Development)
+I am just a person enthusiastic about anything related to programming, whether it's website development, games or applications ... development. But of course I do have a particular specialization that I focus on. (Web Development)
 </div>
 
 <h3 align="center">Languages/Runtimes</h3>
